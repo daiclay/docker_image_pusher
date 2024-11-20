@@ -1,2 +1,2 @@
 haproxy:2.4
-btpanel/btpanel
+pch18/baota
